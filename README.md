@@ -1,6 +1,8 @@
 # pomodoro
 
-> A Vue.js project
+> Pomodoro
+
+[![Build Status](https://travis-ci.org/sh00ter/Pomodoro.svg?branch=master)](https://travis-ci.org/sh00ter/Pomodoro)
 
 ## Build Setup
 
