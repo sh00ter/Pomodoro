@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App'
-import VueNoiseGeneratorPlugin from './plugins/VueNoiseGenerator'
+import VueNoiseGeneratorPlugin from '../plugins/VueNoiseGenerator'
 
 Vue.use(VueNoiseGeneratorPlugin)
 
